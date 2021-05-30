@@ -11,7 +11,7 @@
                 <div class="address-info">
                     <span>Hoang Dieu 2 </span>
                     <span>Thu duc,TP.HCM</span>
-                    <span><i>E-mail:</i><a href="leminhquangit@gmail.com">leminhquangit@gmail.com</a></span>
+                    <span><i>E-mail:</i><a href="demo">qlsieuthi@gmail.com</a></span>
                 </div>
                 <div class="footer-social-icons">
                     <ul>
